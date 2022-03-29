@@ -41,3 +41,4 @@
 - What do these reports look like when they are sent to the client?
   - Are they text heavy? Would using visuals help? What does the client prefer?
 - What's the difference between these monthly reports and the ones from Data Studio that are sent to team@
+- Anything we could automate?
